@@ -49,10 +49,8 @@ public class Main extends JavaPlugin{
 			s.sendMessage(ChatColor.color + "Nodiq:");
 			s.sendMessage(ChatColor.color + "Nodiq:");
 			s.sendMessage(ChatColor.color + "Nodiq:");
-    		//fa ce scrie
     		return true;
     	}
-    	//nu mai verifica
     	return true;
     }	
      
